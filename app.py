@@ -3,7 +3,7 @@ from telebot import types
 import requests
 import datetime
 
-bot = telebot.TeleBot("8210571275:AAE-MLpnfT-XesPR_QFGQmJ4bUtwQvpBpkQ", parse_mode="HTML")
+bot = telebot.TeleBot("8475531439:AAF0NbENaFWbMjQSSxSK5n4JYbKqQK9qPZs", parse_mode="HTML")
 
 headers = {
     'Host': 'restore-access.indream.app',
