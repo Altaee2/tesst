@@ -1,0 +1,4 @@
+gunicorn
+telebot
+requests
+datetime
